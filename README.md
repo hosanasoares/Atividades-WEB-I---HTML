@@ -30,5 +30,5 @@ Lista de atividades:
 - [Atividade 14](https://github.com/hosanasoares/Atividades-WEB-I---HTML/blob/main/atividades/atividade14.html)
 
 ## 🖥️​ Linguagem Utilizada:
-- HTML  - CSS
-  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon"> <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40" alt="CSS Icon">
+- HTML
+  <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40" alt="HTML5 Icon"> 
